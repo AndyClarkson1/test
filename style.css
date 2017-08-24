@@ -16,6 +16,13 @@
   font-size: 1.2rem;
 }
 
+#vis_text {
+  font-family: 'Amatic SC', cursive;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  float: center;
+  font-size: 1rem;
+
 video {
     position: fixed;
     top: 50%;
