@@ -16,10 +16,10 @@
   font-size: 1.2rem;
 }
 
-#description {
+#vis_text {
   font-family: 'Amatic SC', cursive;
   background: rgba(0,0,0,0.3);
-  color: blue;
+  color: black;
   padding: 2rem;
   width: 33%;
   margin:2rem;
