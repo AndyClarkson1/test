@@ -16,6 +16,17 @@
   font-size: 1.2rem;
 }
 
+#description {
+  font-family: 'Amatic SC', cursive;
+  background: rgba(0,0,0,0.3);
+  color: blue;
+  padding: 2rem;
+  width: 33%;
+  margin:2rem;
+  float: center;
+  font-size: 1rem;
+}
+
 video {
     position: fixed;
     top: 50%;
